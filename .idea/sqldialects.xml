@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/Desktop/Nackademin Java/Kurser/Databasteknik och Java/SQL-filer/Tomteverkstad_Create&amp;Insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../JDBC_Databaser_Ovningar/src/SQL_script/Tomteverkstad_Create&amp;Insert_canDeleteTomtar.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../JDBC_Databaser_Ovningar/src/SQL_script/Tomteverkstad_SP_addPresent.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../JDBC_Databaser_Ovningar/src/SQL_script/Tomteverkstad_SP_addTomte.sql" dialect="MySQL" />
+  </component>
+</project>
